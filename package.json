@@ -5,7 +5,7 @@
   "description": "Official Mixpanel library for Unity.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mixpanel/mixpanel-unity"
+    "url": "https://github.com/karavias/mixpanel-unity"
   },
   "author": "Mixpanel",
   "license": "Apache V2",
